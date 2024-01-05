@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JirawatPonphaipan
-- 👀 I’m interested in Softwere Enginear 
-- 🌱 I’m currently learning C 
+- 👋 Hi, I’m @JirawatPonphaipan 
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning C and Java 
 - 💞️ I’m looking to collaborate on some project take value most people
 - 📫 How to reach me Gmail: nnonwo@gmail.com 
 
